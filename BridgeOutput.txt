@@ -1,0 +1,10 @@
+00-00-00-11-0b-0d 00-13-46-c6-a5-35 1 Forwarded to port 2
+00-0c-29-51-33-c1 01-00-5e-7f-ff-64 4 Discarded
+01-00-5e-7f-ff-64 00-00-4f-31-fa-fb 3 Broadcasted
+00-1d-60-29-cc-b2 00-1d-7d-77-de-3c 4 Discarded
+00-19-5b-0d-04-dc 00-21-91-f5-d5-d4 1 Discarded
+00-1a-4d-34-ab-cd 00-e0-4c-86-70-09 2 Forwarded to port 1
+00-1f-d0-c8-49-7f 00-24-1d-3a-7d-14 3 Forwarded to port 4
+00-11-22-33-44-55 00-1d-60-29-a5-ae 3 Discarded
+00-24-1d-3a-b8-2a 00-19-5b-0d-04-dc 2 Forwarded to port 1
+00-0c-29-33-47-6f 00-11-22-33-44-55 2 Forwarded to port 3
